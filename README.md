@@ -11,6 +11,17 @@ Sockets Links.
 ## PROGRAM
 
 ### server:
+
+
+
+
+
+
+
+
+
+
+.
 ```python
 import socket
 
@@ -54,7 +65,26 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 
 ## OUPUT
 
+
+
+
+
+
+
+
+
+
+
+
+.
+
 ![image](https://github.com/user-attachments/assets/ff611de3-ecb3-42b3-9b2c-c7ce151018e6)
+
+
+
+
+
+.
 
 ![image](https://github.com/user-attachments/assets/7c54f430-d3be-45bb-b4d7-bebcec3a54ff)
 
